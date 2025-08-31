@@ -24,7 +24,8 @@ Requirement Analysis is the process of understanding what a software system shou
 ## Use Case Diagrams
 Use case diagrams show how users interact with the system. They help visualize features.
 
-![Booking System Use Case Diagram](alx-booking-uc.png
+![alx-booking-uc](https://github.com/user-attachments/assets/23b244d3-ed96-49e7-820b-904987089a57)
+
 
 ## Acceptance Criteria
 Acceptance criteria are conditions a feature must meet to be accepted.  
