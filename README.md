@@ -1,3 +1,4 @@
+
 # Requirement Analysis in Software Development
 ## What is Requirement Analysis?
 Requirement Analysis is the process of understanding what a software system should do. It helps developers know exactly what to build.
@@ -24,7 +25,8 @@ Requirement Analysis is the process of understanding what a software system shou
 ## Use Case Diagrams
 Use case diagrams show how users interact with the system. They help visualize features.
 
-<img width="271" height="421" alt="_alx-booking-uc" src="https://github.com/user-attachments/assets/d2617f85-4e22-4b81-8fa9-e575c695efca" />
+<img width="271" height="421" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/49a7e420-5bb8-4ffd-9c46-2d7a6a59d240" />
+
 
 
 
