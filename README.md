@@ -24,7 +24,8 @@ Requirement Analysis is the process of understanding what a software system shou
 ## Use Case Diagrams
 Use case diagrams show how users interact with the system. They help visualize features.
 
-alx-booking-uc.png![alx-booking-uc]![alx-booking-uc png]![alx-booking-uc png](https://github.com/user-attachments/assets/9d069d50-9ce0-4c13-b205-170361cd7fc4)
+<img width="271" height="421" alt="_alx-booking-uc" src="https://github.com/user-attachments/assets/d2617f85-4e22-4b81-8fa9-e575c695efca" />
+
 
 
 
