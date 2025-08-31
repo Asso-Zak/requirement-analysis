@@ -60,7 +60,8 @@ They visualize system functionality and help validate requirements.
 
 **Example Diagram:**  
 
-<img width="271" height="421" alt="alx-booking-uc png" src="https://github.com/user-attachments/assets/2ff4e512-9029-4307-8604-fc136516cae6" />
+<img <img width="271" height="421" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/5eabd313-fa2b-4db7-af9f-e469a7ce3e0a" />
+ />
 
 
 **Actors:**  
